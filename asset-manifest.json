@@ -1,0 +1,25 @@
+{
+  "files": {
+    "About-page.js": "/goit-react-hw-04-pet-store/static/js/About-page.10f83e7c.chunk.js",
+    "About-page.js.map": "/goit-react-hw-04-pet-store/static/js/About-page.10f83e7c.chunk.js.map",
+    "Pet-page.js": "/goit-react-hw-04-pet-store/static/js/Pet-page.267420b8.chunk.js",
+    "Pet-page.js.map": "/goit-react-hw-04-pet-store/static/js/Pet-page.267420b8.chunk.js.map",
+    "Pets-page.css": "/goit-react-hw-04-pet-store/static/css/Pets-page.98ac0838.chunk.css",
+    "Pets-page.js": "/goit-react-hw-04-pet-store/static/js/Pets-page.418faa9b.chunk.js",
+    "Pets-page.js.map": "/goit-react-hw-04-pet-store/static/js/Pets-page.418faa9b.chunk.js.map",
+    "home-page.js": "/goit-react-hw-04-pet-store/static/js/home-page.7b3aa72c.chunk.js",
+    "home-page.js.map": "/goit-react-hw-04-pet-store/static/js/home-page.7b3aa72c.chunk.js.map",
+    "main.css": "/goit-react-hw-04-pet-store/static/css/main.bff47c14.chunk.css",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.eb843163.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.eb843163.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.0903d590.js",
+    "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.0903d590.js.map",
+    "static/js/6.7f25b761.chunk.js": "/goit-react-hw-04-pet-store/static/js/6.7f25b761.chunk.js",
+    "static/js/6.7f25b761.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/6.7f25b761.chunk.js.map",
+    "index.html": "/goit-react-hw-04-pet-store/index.html",
+    "precache-manifest.e619592fcb1af606bc34edfba1b623e7.js": "/goit-react-hw-04-pet-store/precache-manifest.e619592fcb1af606bc34edfba1b623e7.js",
+    "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
+    "static/css/Pets-page.98ac0838.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/Pets-page.98ac0838.chunk.css.map",
+    "static/css/main.bff47c14.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.bff47c14.chunk.css.map"
+  }
+}
